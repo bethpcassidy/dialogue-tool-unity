@@ -1,5 +1,7 @@
 # Dialogue Tool
 
+![](https://media.giphy.com/media/x9r5MXlsqJZB611n57/giphy.gif)
+
 This is a prebuilt simple dialogue tool made in Unity that allows for easily triggered dialogue.
 
 This is the file that contains all of the scripts for the character objects and view objects.
